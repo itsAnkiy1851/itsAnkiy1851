@@ -2,7 +2,7 @@
 
 ## Skills
 - C - C++ - Java - Data Structures and Algorithms (DSA)
-- 
+
 ## Contact
 - 📞 +91 9430291148
 - 📧 ankitraj7004013306@gmail.com
