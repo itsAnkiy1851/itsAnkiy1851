@@ -9,8 +9,17 @@
 - LinkedIn: [ANKITRAJ_DSA](https://www.linkedin.com/in/ANKITRAJ_DSA)
 
 ## Experience
-### Intern| KPIT Technologies
-08/2023 - Present
+
+### TATA CONSULTANCY SERVICES
+10/2024 - Present
+Assistant System Engineer
+- Hands on Java
+- Unix and Sql
+-  Making projects using Agile Method
+
+
+### KPIT Technologies
+08/2023 - 10/2024
 - Specialized in C/C++.
 - Effective problem-solving skills.
 
